@@ -8,13 +8,13 @@ n=[[0]*5 for n in range(5)]
 while True:
   d *=-1
   for _ in range(size):
-    n +=1
+    nums +=1
     x+=d
     n[y][x]=nums
   size-=1
   if size<1: break;
   for _ in range(size):
-    n +=1
+    nums +=1
     y+=d
     n[y][x]=nums
     
