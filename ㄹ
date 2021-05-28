@@ -1,3 +1,9 @@
 a= input("이름을 입력하세요: ")
 if a=="박찬우":
-  print("오류입니다.")
+  print("ㅋ")
+elif a=="김형서":
+  print("전교 일등")
+elif a=="신찬빈":
+  print("반장, 키2메다")
+else:
+  print("찬우")
