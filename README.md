@@ -8,4 +8,5 @@
 Park-chanwoo1234/Park-chanwoo1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-대지고등학교 3학년 9반 3조 프로그램 프로젝트입니다.
+Daeji High School 3-9반 3rd group program project
+leader:신찬빈 programmer:김형서,박찬우 QA:박지훈
