@@ -4,6 +4,6 @@ if a=="박찬우":
 elif a=="김형서":
   print("전교 일등")
 elif a=="신찬빈":
-  print("반장, 키2메다")
+  print("반장, 키2메다60")
 else:
   print("찬우")
